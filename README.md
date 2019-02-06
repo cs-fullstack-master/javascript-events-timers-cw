@@ -8,3 +8,6 @@ Create a simple form with a textarea, a hidden message with the text ```Start ty
 
 ### Exercise 3:
 Create a button with the text ```Start countdown!```. When the User clicks the button, display a countdown sequence from 10 to ```LIFTOFF!!```. Display each number during the countdown, the the word ```LIFTOFF```.
+
+### CHALLENGE:
+Animate the included sprite images
