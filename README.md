@@ -11,3 +11,6 @@ Create a button with the text ```Start countdown!```. When the User clicks the b
 
 ### CHALLENGE:
 Animate the included sprite images
+
+### EVEN MORE OF A CHALLENGE
+Animate Mario walking to the left and right by pressing the left and right arrow keys (HINT: implement event handler(s) for handling the key presses)
