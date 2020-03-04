@@ -12,7 +12,7 @@ Create a simple form with a fieldset, legend of `Post Text`, textarea, a *hidden
 When the page initially displays, the textarea should be disabled, and the message hidden. When the User clicks the button, display the hidden message, change the text on the button to `Stop Typing`, and enable the textarea so you can type into it. Clicking the button a second time should hide the hidden message, change the text of the button back to `Start Typing`, and disable the textarea. Each press of the button should toggle this behavior.
 
 ### Exercise 3: timers
-Create a button with the text `Start countdown!`. When the User clicks the button, display a countdown sequence from 10 to `LIFTOFF!!`. Display each number during the countdown for *1 second*, leading up to the word `LIFTOFF`.
+Create a button with the text `Start countdown!`. When the User clicks the button, display a countdown sequence in the browser as an `<h2>` from 10 to `LIFTOFF!!`. Display each number during the countdown for *1 second*, leading up to the word `LIFTOFF`.
 
 ### CHALLENGE:
 Animate the included sprite images
